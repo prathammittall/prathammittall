@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Mittal</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🔭 I’m currently working on [GeneticX](https://github.com/prathammittall/HackTU-Final-GeneticX)
+- 🔭 I’m currently working on [GeneticX](https://github.com/prathammittall/HackTU-Final-GeneticX) is DNA analysing AI/ML tool.
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
